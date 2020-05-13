@@ -1,4 +1,4 @@
-<tit-iza.githib.io html>
+<tit-iza.github.io html>
 <html>
   <head>
     <title>Witam na mojej stronie</title>
