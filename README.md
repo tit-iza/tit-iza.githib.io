@@ -1,5 +1,6 @@
 <html>
   <head>
+    <meta charset="utf-8">
     <title>Witam na mojej stronie</title>
   </head>
   <body>
