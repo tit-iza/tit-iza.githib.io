@@ -1,4 +1,3 @@
-<tit-iza.github.io html>
 <html>
   <head>
     <title>Witam na mojej stronie</title>
