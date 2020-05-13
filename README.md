@@ -1,10 +1,7 @@
 # tit-iza.githib.io
 <html>
   <head>
-    <meta charset="utf-8">
-    <title>Moja strona</title>
+    <title>Witam na mojej stronie</title>
   </head>
-  <body>
-    <hl>Nie wiem co tu wpisać, ponieważ dopiero się uczę tworzyć strony</hl>
-  </body>
-</html>
+  <body>Witam na mojej stonie</body>
+  </html> 
