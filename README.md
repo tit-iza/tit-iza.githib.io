@@ -12,7 +12,7 @@
      <div class="container">
    <section class="section">
   <iframe id="ytplayer" type="text/html" width="640" height="390"
-  src="https://www.youtube.com/embed/uJ_1HMAGb4k?"
+  src="https://www.youtube.com/watch?v=kXYiU_JCYtU"
   frameborder="0"/>
      </section>
  </body>
