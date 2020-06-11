@@ -1,6 +1,6 @@
 # tit-iza.github.io
-<!DOCTYPE html>
 <html lang="pl">
+  <!DOCTYPE html>
   <head>
     <meta charest="utf-8" />
     <title>tit-iza.github.io</title>
