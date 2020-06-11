@@ -5,6 +5,11 @@
     <title>tit-iza.github.io</title>
   </head>
   <body>
+    <nav class="nav">
+            <div class="container">
+            <ul>
+                <li><a href="zwierzoki.html">JavaScript</a></li>
+            </ul>
     <h1>Witam na mojej stonie</h1>
     <p> witam cieplutko</p>
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Feels_good_man.jpg/200px-Feels_good_man.jpg" />
